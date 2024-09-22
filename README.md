@@ -1,4 +1,17 @@
 ## Hi there 👋
+# Hi, I'm Areeba Naz 👋
+
+I'm an aspiring GIS Developer with a passion for geospatial technologies and full-stack development. This repository is a showcase of my skills and projects in the GIS and software development space.
+
+## 🔧 Skills
+- **GIS Tools**: GeoPandas, QGIS, GDAL, PostGIS
+- **Web Development**: React, Vue.js, Django, Flask
+- **Data Visualization**: Leaflet, Mapbox, Matplotlib
+- **Programming Languages**: Python, JavaScript
+- **Databases**: PostgreSQL, PostGIS
+
+## 📂 Featured Projects
+A showcase of my GIS projects can be found in the repositories.
 
 <!--
 **areebanaz941/areebanaz941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
