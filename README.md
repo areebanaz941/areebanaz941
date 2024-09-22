@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Areeba Naz 👋
+## Hi, I'm Areeba Naz 👋
 
 I'm an aspiring GIS Developer with a passion for geospatial technologies and full-stack development. This repository is a showcase of my skills and projects in the GIS and software development space.
 
